@@ -2,7 +2,7 @@ export const personalData = {
   name: "Hrithik Singh",
   profile: '/profile.jpeg',
   designation: "Software Developer",
-  description: "My name is Hrithik Singh. I am a developer with over 1 year of industrial experience. With joining lots of hackathons, I've gained a bunch of skills and improved my problem solving skills. I know my way around C, C++, and JavaScript, Python, and I'm pretty good with frameworks like Node.js, ReactJs, and NextJs, handling both front and back-end together. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I am available for any kind of job opportunity that suits my skills and interests.",
+  description: "Hello, I'm Hrithik Singh, a developer with over a year of industrial experience. Participating in numerous hackathons has allowed me to refine my skills and enhance my problem-solving capabilities. I am proficient in C, C++, JavaScript, and Python, and I possess extensive experience with frameworks such as Node.js, React.js, and Next.js, enabling me to effectively manage both front-end and back-end development. As a quick learner with a self-motivated attitude, I am dedicated to exploring and mastering new technologies. My passion for problem-solving drives me to continuously seek out new challenges and growth opportunities. I am open to job opportunities that align with my skills and interests",
   email: 'hrithikks10@gmail.com',
   phone: '+91-7483070758',
   address: 'Bengaluru, Karnataka, India - 560017 ',
