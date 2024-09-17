@@ -17,4 +17,16 @@ export const experiences = [
     company: "NWC, SRMIST",
     duration: "(Aug 2022 - Jul 2023)"
   }
+  {
+    id: 4,
+    title: "Software Developer",
+    company: "Slikk.club",
+    duration: "(April 2024 - Jul 2024)"
+  }
+  {
+    id: 5,
+    title: "Software Engineer",
+    company: "Synaptics",
+    duration: "(Jul 2024 - Present)"
+  }
 ]
